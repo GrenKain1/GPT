@@ -1,0 +1,11 @@
+/private/config.local.php
+/private/content.json
+/private/setup-token.txt
+/private/runtime/
+/private/backups/
+/public_html/media/uploads/*
+!/public_html/media/uploads/.htaccess
+/dist/
+/.DS_Store
+__pycache__/
+
